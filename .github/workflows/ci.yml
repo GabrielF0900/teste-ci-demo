@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Pipeline executado com sucesso!"
+        run: echo "Pipeline executado com sucesso! Feito por Gabriel Falcão da Cruz"
